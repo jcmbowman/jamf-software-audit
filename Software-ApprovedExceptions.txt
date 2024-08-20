@@ -1,0 +1,9 @@
+# List of software that has documented approval
+1Password for Safari.app            # John Bowman - Personal
+1Password.app                       # John Bowman - Personal
+aero_desktop.app                    # Graphics
+blender.app                         # BIT Tutors
+CamTwist.app                        # Graphics
+Carbon Copy Cloner.app              # John Bowman - Tech Software
+Cinebench.app                       # John Bowman - Tech Software
+coconutBattery.app                  # John Bowman - Tech Software

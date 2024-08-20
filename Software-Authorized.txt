@@ -1,0 +1,254 @@
+# List of authorized software
+AAM Registration Notifier.app           # Adobe Support App
+AAM Updates Notifier.app                # Adobe Support App
+AAMLauncherUtil.app                     # Adobe Support App
+AASIapp.app                             # Adobe Support App
+Acrobat Distiller.app
+Adobe Acrobat Reader.app
+Adobe Acrobat.app
+Adobe After Effects 2022.app
+Adobe After Effects 2023.app
+Adobe After Effects 2024.app
+Adobe After Effects Render Engine 2022.app
+Adobe After Effects Render Engine 2023.app
+Adobe After Effects Render Engine 2024.app
+Adobe Animate 2023.app
+Adobe Animate 2024.app
+Adobe Application Manager.app
+Adobe Audition 2022.app
+Adobe Audition 2023.app
+Adobe Audition 2024.app
+Adobe Bridge 2022.app
+Adobe Bridge 2023.app
+Adobe Bridge 2024.app
+Adobe Character Animator 2023.app
+Adobe Character Animator 2024.app
+Adobe Character Animator (Beta).app
+Adobe Creative Cloud Diagnostics.app
+Adobe Dimension.app
+Adobe Dreamweaver 2021.app
+Adobe Illustrator.app
+Adobe InCopy 2023.app
+Adobe InCopy 2024.app
+Adobe InDesign 2022.app
+Adobe InDesign 2023.app
+Adobe InDesign 2024.app
+Adobe Lightroom Classic.app
+Adobe Lightroom.app
+Adobe Media Encoder 2022.app
+Adobe Media Encoder 2023.app
+Adobe Media Encoder 2024.app
+Adobe Muse CC 2018.app
+Adobe Photoshop 2022.app
+Adobe Photoshop 2023.app
+Adobe Photoshop 2024.app
+Adobe Prelude 2022.app
+Adobe Premiere Pro 2022.app
+Adobe Premiere Pro 2023.app
+Adobe Premiere Pro 2024.app
+Adobe Premiere Rush.app
+Adobe Substance 3D Designer.app
+Adobe Substance 3D Painter.app
+Adobe Substance 3D Sampler.app
+Adobe Substance 3D Stager.app
+Adobe XD.app
+adobe_licensing_helper.app          # Adobe Support App
+adobe_lichelper.app                 # Adobe Support App
+adobe_licutil.app                   # Adobe Support App
+AdobeCleanUpUtility.app             # Adobe Support App
+AdobeGCClient.app                   # Adobe Support App
+AdobeIPCBroker.app                  # Adobe Support App
+ADPClientService.app                # Autodesk Support App
+AdpSDKUtil.app                      # Autodesk Support App
+Alertus Desktop.app
+Android Studio 2.app
+Android Studio 3.app
+Android Studio.app
+Apache NetBeans 12.6.app
+Apache NetBeans 14.app
+Apache NetBeans 18.app
+Apache NetBeans.app
+Arduino IDE.app
+ArnoldLicenseManager.app
+ASIX_USB_Device_App.app
+Audacity.app                        # Audio
+Autodesk Fusion 360.app
+Avid Link Uninstaller.app
+Avid Link.app
+AvidApplicationManager.app
+BBEdit.app
+BevelPro.app
+BodyPaint 3D.app
+c4dpy.app
+CameraSurveyProgram.app
+Camtasia 2022.app
+Camtasia 2023.app
+Camtasia 2024.app
+CC Troubleshooter.app
+CCXProcess.app
+Cinema 4D Lite.app
+Cinema 4D Team Render Client.app
+Cinema 4D Team Render Server.app
+CINEMA 4D TeamRender Client.app
+CINEMA 4D TeamRender Server.app
+CINEMA 4D.app
+Cinema 4D.app
+Cineware.app
+Clock.app
+Commandline.app
+Company Portal.app
+Contact Sheets.app
+Core Sync.app
+Creative Cloud Desktop App.app
+Creative Cloud Helper.app
+Creative Cloud Installer.app
+Creative Cloud Uninstaller.app
+Creative Cloud.app
+DJV2.app
+duet.app
+Duet.app
+Easy Interactive Tools Uninstaller.app
+Easy Interactive Tools.app
+EasyHTML5Video.app
+Epson EWF Converter.app
+Epson Scan 2 Utility.app
+Epson Scan 2.app
+Epson ScanSmart.app
+ExportImport.app
+FileZilla.app
+Firefox.app
+GarageBand.app
+GitHub Desktop.app
+GlobalProtect.app
+Google Chrome.app
+GoToMeeting.app
+GoZ_for_ZBrush_Installer_OSX.app
+GoZ_for_ZBrush_Installer_OSX_C4D_Legacy.app
+HandBrake.app
+Hiero14.1v4.app
+Hiero15.1v1.app
+HieroPlayer14.1v4.app
+HieroPlayer15.1v1.app
+HP Easy Scan.app
+HP Utility.app
+IDLE.app
+iLok License Manager.app
+iMovie.app
+Keynote.app
+KeyShot.app
+KeyShotAuthHandler.app
+KeyShot12.app
+KeyShot12AuthHandler.app
+KeyShotCloudHandler.app
+Lens Studio.app
+License Transfer Utility.app
+LMU.app
+LockDown Browser.app
+Logic Pro X.app
+LogTransport2.app
+LTU.app
+Make Calendar.app
+Maxon.app
+Maya.app
+Microsoft Excel.app
+Microsoft OneNote.app
+Microsoft Outlook.app
+Microsoft PowerPoint.app
+Microsoft Remote Desktop.app
+Microsoft Teams.app
+Microsoft Teams (work or school).app
+Microsoft Teams classic.app
+Microsoft Word.app
+mobirise.app
+MP4 Join Tool.app
+Mudbox.app
+MyE911.app
+NameChanger.app
+NetBeans 8.2.app
+Nudge.app
+Nuke14.1v4 Non-Commercial.app
+Nuke14.1v4.app
+Nuke15.1v1 Non-Commercial.app
+Nuke15.1v1.app
+NukeAssist14.1v4.app
+NukeAssist15.1v1.app
+NukeIndie14.1v4.app
+NukeIndie15.1v1.app
+NukeStudio14.1v4 Non-Commercial.app
+NukeStudio14.1v4.app
+NukeStudio15.1v1 Non-Commercial.app
+NukeStudio15.1v1.app
+NukeX14.1v4 Non-Commercial.app
+NukeX14.1v4.app
+NukeX15.1v1 Non-Commercial.app
+NukeX15.1v1.app
+Numbers.app
+OneDrive.app
+Pages.app
+PhpStorm.app
+PluralEyes 4.app
+Poly Lens.app
+Print Studio.app
+PureRef.app
+Python Launcher.app
+Python.app  
+Remote Desktop.app
+Remove Sophos Endpoint.app
+SceneBuilder.app
+ScreenBeam Conference.app
+ScreenBeam Uninstaller.app
+Self Service.app
+senddmp.app                         # Maya 2024
+Setup.app
+ShareLink.app
+ShareLink Pro.app
+Snagit 2022.app
+Snagit 2023.app
+Snagit 2024.app
+Sophos Content Filter Test Tool.app
+Sophos Detection.app
+Sophos Endpoint Self Help.app
+Sophos Endpoint.app
+Sophos Network Extension.app
+Sophos Scan.app
+Sophos Transparent Proxy Test Tool.app
+Splashtop Business.app
+Splashtop Streamer.app
+Storyboarder.app
+System Settings.app
+TechSmith Capture.app
+TechSmith Relay.app
+The Unarchiver.app
+Timer RH.app                    # From Mac App Store
+Ultimaker Cura.app              # For BIT and Makerspace
+UltiMaker Cura.app              # For BIT and Makerspace
+Uninstall Maxon ZBrush.app
+Uninstall Product.app
+Uninstall.app
+UniverseBlur.app
+UniverseDistort.app
+UniverseGenerators.app
+UniverseGlow.app
+UniverseMotionGraphics.app
+UniverseStylize.app
+UniverseText.app
+UniverseTransitions.app
+UniverseUtilities.app
+USD_Format.app
+Using Epson Scan 2.app
+Visual Studio Code.app
+VLC.app
+Wacom Center.app
+Wacom Desktop Center.app
+Wacom Display Settings.app
+Wacom Tablet Utility.app
+Web Gallery.app
+WebStorm.app
+XAMPP.app
+Xcode.app
+XFUtility3.app
+ZBrush Diagnostic Utility.app
+ZBrush.app
+ZColor.app
+ZHomePage.app
+zoom.us.app

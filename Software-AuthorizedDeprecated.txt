@@ -1,0 +1,45 @@
+# List of authorized software that is now deprecated
+Adobe AIR Application Installer.app
+Adobe AIR Uninstaller.app
+Adobe Bridge 2020.app
+Adobe Bridge 2021.app
+Adobe Flash Player Install Manager.app
+Adobe InDesign 2020.app
+Adobe InDesign 2021.app
+Adobe Photoshop 2020.app
+Adobe Photoshop 2021.app
+Android File Transfer.app
+Brackets.app
+Camtasia 2019.app
+Camtasia 2020.app
+Camtasia 2021.app
+DJV.app
+EVO ShareBrowser Uninstaller.app
+EVO ShareBrowser.app
+Flannel.app
+Flash Player Debugger.app
+Flash Player.app
+GitHub.app
+Hiero13.1v1.app
+HieroPlayer13.1v1.app
+KeyShot10.app
+Mari3.4v4 Non-commercial.app
+Mari3.4v4.app
+Nuke13.1v1 Non-Commercial.app
+Nuke13.1v1.app
+NukeAssist13.1v1.app
+NukeIndie13.1v1.app
+NukeStudio13.1v1 Non-Commercial.app
+NukeStudio13.1v1.app
+NukeX13.1v1 Non-Commercial.app
+NukeX13.1v1.app
+Sketch.app
+Snagit 2020.app
+Snagit 2021.app
+Substance Alchemist.app         
+Substance B2M.app
+Substance Designer.app
+Substance Painter.app
+System Center Endpoint Protection.app
+TextWrangler.app
+Uninstall ZBrush 2020.app 

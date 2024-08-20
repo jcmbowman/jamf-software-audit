@@ -1,0 +1,3 @@
+# List of unauthorized software
+LogMeIn Client.app          # Possible remote access vector
+WhatsApp.app                # Chinese-owned company
