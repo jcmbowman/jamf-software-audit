@@ -54,7 +54,7 @@ Drag "Application Status" to the Columns box.
 
 Drag "Computer Name" to the Values box.
 
-If you want even more detailed information you can also optionally drag "Application Version" to the Rows box.
+If you want even more detailed information you can also optionally drag "Application Version" or "Computer Name" (or both) to the Rows box.
 
 **Congatulations!!** You now have a pivot table that will allow you to filter based on app names, or based on the different application status types.
 
