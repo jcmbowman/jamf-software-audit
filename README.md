@@ -62,7 +62,9 @@ If you want even more detailed information you can also optionally drag "Applica
 
 This script works by matching the software titles against one of several .txt files. Each .txt file expects one software title per row. It will ignore anything on a row after a # character, and it will strip any trailing spaces.
 
+### Cleaning up the supplemental data files:
 
+I have included another python script with this poject named "UnreferencedSoftwareSearch.py". Run this script with your Jamf Pro-created Application report csv as a parameter and it will return a list of all the software listed in the the supplemental data .txt files that is not in the current application report.
 
 
 
